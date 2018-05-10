@@ -16,6 +16,8 @@ class MarketHtmlPresenter
         }
 
         $html .= '</ul>';
+        
+        return $html;
 
     }
 }
